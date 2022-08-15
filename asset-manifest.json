@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phonebook-rtk-firebase/static/css/main.400f0f19.css",
+    "main.js": "/phonebook-rtk-firebase/static/js/main.c2363ab1.js",
+    "index.html": "/phonebook-rtk-firebase/index.html",
+    "main.400f0f19.css.map": "/phonebook-rtk-firebase/static/css/main.400f0f19.css.map",
+    "main.c2363ab1.js.map": "/phonebook-rtk-firebase/static/js/main.c2363ab1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.400f0f19.css",
+    "static/js/main.c2363ab1.js"
+  ]
+}
